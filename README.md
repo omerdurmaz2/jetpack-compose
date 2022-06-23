@@ -1,2 +1,2 @@
-# jetpact-compose
+# jetpack-compose
 Personal Jetpack Compose Playground
