@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ProjectOne</string>
+    <string name="happy_face">&#x1F600;</string>
+    <string name="sad_face">&#x1F625;</string>
+    <string name="happy_message">Tebrikler sayiyi dogru tahmin ettiniz</string>
+    <string name="sad_message">Maalesef sayiyi dogru tahmin edemediniz</string>
 </resources>
